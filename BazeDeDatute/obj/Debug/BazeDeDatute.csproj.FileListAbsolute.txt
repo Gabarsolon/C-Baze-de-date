@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\bin\Debug\Biblioteca.mdf
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\bin\Debug\Biblioteca_log.ldf
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\bin\Debug\BazeDeDatute.exe.config
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\bin\Debug\BazeDeDatute.exe
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\bin\Debug\BazeDeDatute.pdb
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\obj\Debug\BazeDeDatute.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\obj\Debug\BazeDeDatute.Form1.resources
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\obj\Debug\BazeDeDatute.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\obj\Debug\BazeDeDatute.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\obj\Debug\BazeDeDatute.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\obj\Debug\BazeDeDatute.exe
+C:\Users\Administrator\source\repos\BazeDeDatute\BazeDeDatute\obj\Debug\BazeDeDatute.pdb
